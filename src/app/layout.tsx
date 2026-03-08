@@ -1,35 +1,53 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "PSGMX Forks | Open Source Community",
+  title: "PSGMX Forks | Open Source Community — PSG College of Technology",
   description:
-    "PSGMX Forks — Open Source Community by 25MXians of PSG College of Technology, Department of Computer Applications.",
+    "PSGMX Forks is an open source community by 25MXians — students of the Department of Computer Applications, PSG College of Technology, Coimbatore. We build and contribute free, open source software to the global developer community.",
   keywords: [
+    // Community & identity
+    "PSGMX Forks",
+    "25MXians",
+    "PSG College of Technology",
+    "PSG Tech",
+    "PSG Tech Coimbatore",
+    "Department of Computer Applications",
+    "MCA students",
+    "student open source community",
+    "Coimbatore",
+    "Tamil Nadu",
+    "India open source",
+    // Open source
+    "open source",
+    "open source community",
+    "open source contributions",
+    "free software",
+    "GitHub community",
+    "developer community",
+    "open source projects",
+    "software contributions",
+    "collaborative development",
+    "community-driven",
+    // Tech stack
     "reactjs",
     "nextjs",
-    "react",
-    "next",
-    "modern-ui",
-    "modern-ux",
-    "portfolio",
-    "gsap",
-    "animated",
-    "animated-ui",
-    "game-website",
-    "gaming-website",
-    "postcss",
-    "prettier",
-    "tailwindcss",
-    "tailwindcss-animate",
-    "ui/ux",
-    "js",
-    "javascript",
     "typescript",
-    "eslint",
-    "html",
-    "css",
-    "ts",
+    "javascript",
+    "tailwindcss",
+    "gsap",
+    "nodejs",
+    "web development",
+    "full stack",
+    "frontend development",
+    // SEO / discoverability
+    "student developers",
+    "college tech community",
+    "open source India",
+    "PSG open source",
+    "psgmxforks",
+    "brittytino",
   ],
   authors: [
     {
@@ -37,6 +55,36 @@ export const metadata: Metadata = {
       url: "https://github.com/brittytino",
     },
   ],
+  creator: "Tino Britty J",
+  publisher: "PSGMX Forks",
+  category: "Technology",
+  openGraph: {
+    type: "website",
+    locale: "en_IN",
+    url: "https://github.com/brittytino/psgmxforks",
+    siteName: "PSGMX Forks",
+    title: "PSGMX Forks | Open Source Community — PSG College of Technology",
+    description:
+      "Open source community by 25MXians of PSG College of Technology, Coimbatore. Building free software for the world.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "PSGMX Forks | Open Source Community",
+    description:
+      "Open source community by 25MXians of PSG College of Technology, Coimbatore.",
+    creator: "@brittytino",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-snippet": -1,
+      "max-image-preview": "large",
+      "max-video-preview": -1,
+    },
+  },
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "48x48", type: "image/ico" },
@@ -57,7 +105,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
