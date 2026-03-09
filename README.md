@@ -4,10 +4,11 @@
 
 > **Open Source Community by 25MXians of PSG College of Technology, Department of Computer Applications.**
 
-[![License](https://img.shields.io/github/license/PSGMX-Fork-s/psgmxforks?style=flat-square)](LICENSE)
-[![Maintenance](https://img.shields.io/maintenance/yes/2026?style=flat-square)](https://github.com/PSGMX-Fork-s/psgmxforks/commits/main)
-[![Issues](https://img.shields.io/github/issues/PSGMX-Fork-s/psgmxforks?style=flat-square)](https://github.com/PSGMX-Fork-s/psgmxforks/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/PSGMX-Fork-s/psgmxforks?style=flat-square)](https://github.com/PSGMX-Fork-s/psgmxforks/pulls)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained-Yes-green.svg?style=flat-square)](https://github.com/PSGMX-Fork-s/psgmxforks/commits/main)
+[![Issues](https://img.shields.io/badge/Issues-Welcome-blue.svg?style=flat-square)](https://github.com/PSGMX-Fork-s/psgmxforks/issues)
+[![Pull Requests](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square)](https://github.com/PSGMX-Fork-s/psgmxforks/pulls)
+[![Website](https://img.shields.io/website?up_message=online&down_message=offline&url=https%3A%2F%2Fforks.psgmx.tech&style=flat-square&label=Website)](https://forks.psgmx.tech)
 
 ---
 
