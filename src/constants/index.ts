@@ -19,7 +19,7 @@ export const SOCIAL_LINKS = [
     icon: FaDiscord,
   },
   {
-    href: "https://x.com/_sanidhyy",
+    href: "https://x.com/tinobritty",
     icon: FaXTwitter,
   },
   {

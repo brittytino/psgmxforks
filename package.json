@@ -1,5 +1,5 @@
 {
-  "name": "game-website",
+  "name": "psgmxforks",
   "private": true,
   "version": "1.0.1",
   "type": "module",
@@ -13,8 +13,8 @@
     "format:fix": "prettier --write ."
   },
   "author": {
-    "name": "Tino Britty J",
-    "url": "https://github.com/brittytino"
+    "name": "PSGMX Forks Community",
+    "url": "https://github.com/psgmxforks"
   },
   "description": "PSGMX Forks — Open Source Community by 25MXians of PSG College of Technology, Department of Computer Applications.",
   "keywords": [
@@ -46,11 +46,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/brittytino/psgmxforks.git"
+    "url": "https://github.com/PSGMX-Fork-s/psgmxforks.git"
   },
-  "homepage": "https://github.com/brittytino/psgmxforks#readme",
+  "homepage": "https://github.com/PSGMX-Fork-s/psgmxforks#readme",
   "bugs": {
-    "url": "https://github.com/brittytino/psgmxforks/issues"
+    "url": "https://github.com/PSGMX-Fork-s/psgmxforks/issues"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",

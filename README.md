@@ -1,17 +1,23 @@
 <a name="readme-top"></a>
 
-# Nova - 3D Animated Gaming Website
+# PSGMX Forks - Nova 3D Animated Gaming Website
 
-![Nova - 3D Animated Gaming Website](/.github/images/img_main.png "Nova - 3D Animated Gaming Website")
+> PSGMX Forks — Open Source Community by 25MXians of PSG College of Technology, Department of Computer Applications.
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8e15a161-8615-4046-9869-4af8feb3c221/deploy-status)](https://nova-game.netlify.app/ "Netlify Status")
+- Website: [forks.psgmx.tech](https://forks.psgmx.tech)
+- GitHub: [https://github.com/psgmxforks](https://github.com/psgmxforks)
+- Organization: [https://github.com/PSGMX-Fork-s](https://github.com/PSGMX-Fork-s)
+
+![Nova - 3D Animated Gaming Website](/.github/images/img_main.png "PSGMX Forks - 3D Animated Gaming Website")
+
+[![Ask Us Anything!](https://flat.badgen.net/static/Ask%20us/anything?icon=github&color=black&scale=1.01)](https://github.com/PSGMX-Fork-s "Ask Us Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/PSGMX-Fork-s/psgmxforks?icon=github&color=black&scale=1.01)](https://github.com/PSGMX-Fork-s/psgmxforks/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/PSGMX-Fork-s/psgmxforks/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/PSGMX-Fork-s/psgmxforks?icon=github&color=black&scale=1.01)](https://github.com/PSGMX-Fork-s/psgmxforks/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/PSGMX-Fork-s/psgmxforks?icon=github&color=black&scale=1.01)](https://github.com/PSGMX-Fork-s/psgmxforks/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/PSGMX-Fork-s/psgmxforks?icon=github&color=black&scale=1.01)](https://github.com/PSGMX-Fork-s/psgmxforks/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/PSGMX-Fork-s/psgmxforks?icon=github&color=black&scale=1.01)](https://github.com/PSGMX-Fork-s/psgmxforks/pulls "GitHub pull requests")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e15a161-8615-4046-9869-4af8feb3c221/deploy-status)](https://forks.psgmx.tech/ "Netlify Status")
 
 <!-- Table of Contents -->
 <details>
@@ -29,8 +35,8 @@
 - [Stats](#wrench-stats)
 - [Contribute](#raised_hands-contribute)
 - [Acknowledgements](#gem-acknowledgements)
-- [Buy Me a Coffee](#coffee-buy-me-a-coffee)
-- [Follow Me](#rocket-follow-me)
+- [Support Us](#coffee-support-us)
+- [Follow Us](#rocket-follow-us)
 - [Learn More](#books-learn-more)
 - [Deploy on Netlify](#page_with_curl-deploy-on-netlify)
 - [Give A Star](#star-give-a-star)
@@ -41,11 +47,11 @@
 
 ## :bangbang: Folder Structure
 
-Here is the folder structure of this app.
+Here is the folder structure of the project.
 
 <!--- FOLDER_STRUCTURE_START --->
 ```bash
-game-website/
+psgmxforks/
   |- public/
   |- src/
     |-- components/
@@ -107,15 +113,15 @@ game-website/
 
 ## :wrench: Stats
 
-[![Stats for Nova](/.github/images/stats.svg "Stats for Nova")](https://pagespeed.web.dev/analysis?url=https://nova-game.netlify.app/ "Stats for Nova")
+[![Stats for PSGMX Forks](/.github/images/stats.svg "Stats for PSGMX Forks")](https://pagespeed.web.dev/analysis?url=https://forks.psgmx.tech/ "Stats for PSGMX Forks")
 
 ## :raised_hands: Contribute
 
-You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
+You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and we will review them before merging. Make sure you follow community guidelines.
 
 ## :gem: Acknowledgements
 
-Useful resources and dependencies that are used in Nova.
+Useful resources and dependencies that are used in PSGMX Forks.
 
 - The design and animations of this project were inspired by the Zentry.com website, which is an award-winning website recognized on [Awwwards.com](https://awwwards.com "Awwwards.com").
 <!--- DEPENDENCIES_START --->
@@ -149,14 +155,14 @@ Useful resources and dependencies that are used in Nova.
 
 <!--- DEPENDENCIES_END --->
 
-## :coffee: Buy Me a Coffee
+## :coffee: Support Us
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/ "Support Us")
 
-## :rocket: Follow Me
+## :rocket: Follow Us
 
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2F_sanidhyy)](https://x.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fgame-website "Tweet about this project")
+[![Follow Us](https://img.shields.io/github/followers/PSGMX-Fork-s?style=social&label=Follow&maxAge=2592000)](https://github.com/PSGMX-Fork-s "Follow Us")
+[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fpsgmxforks)](https://x.com/intent/tweet?text=Check+out+this+amazing+project:&url=https%3A%2F%2Fgithub.com%2FPSGMX-Fork-s%2Fpsgmxforks "Tweet about this project")
 
 ## :books: Learn More
 
@@ -186,11 +192,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/game-website&Timeline">
+<a href="https://star-history.com/#PSGMX-Fork-s/psgmxforks&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/game-website&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/game-website&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/game-website&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=PSGMX-Fork-s/psgmxforks&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=PSGMX-Fork-s/psgmxforks&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=PSGMX-Fork-s/psgmxforks&type=Timeline" />
 </picture>
 </a>
 
